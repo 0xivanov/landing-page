@@ -1,0 +1,14 @@
+{
+  "name": "launchstead-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "python3 -m http.server 8174 --bind 127.0.0.1 --directory dist",
+    "deploy": "npm run build && wrangler pages deploy dist --project-name=launchstead --branch=main"
+  },
+  "devDependencies": {
+    "wrangler": "4.132.0"
+  }
+}

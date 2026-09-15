@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://launchstead.0xivanov.dev/sitemap.xml
