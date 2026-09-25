@@ -67,7 +67,7 @@ Start by asking for a recent client project and let the person describe the proc
 
 ## Interview notes
 
-Record the project type, current hosting path, handoff owner, repeated pain points, and exact language used. Connecting existing domains with DNS verification and HTTPS is available. Do not promise domain purchases, live payments, uptime commitments, client-scoped access or integrations that have not shipped.
+Record the project type, current hosting path, handoff owner, repeated pain points, and exact language used. Connecting existing domains with DNS verification and HTTPS is available. Project-scoped read-only client access, email invitations, owner-visible access history and internal portfolio labels are available. New recipients still require operator-approved registration. Do not promise domain purchases, live payments, uptime commitments, ownership transfer or integrations that have not shipped.
 
 ## Assisted first-site checklist
 
@@ -76,6 +76,8 @@ Record the project type, current hosting path, handoff owner, repeated pain poin
 - Arrange allowlisted access, then create the website and upload its ZIP without secrets.
 - Build if needed, publish, and connect the existing domain using the displayed DNS records.
 - Confirm HTTPS, key pages, and one successful content update.
-- Explain workspace-wide member access before inviting anyone.
+- Use a client label to organize the portfolio. Explain that labels do not grant access.
+- For client review, invite the approved account through Clients and confirm it sees only its shared website. Explain that Team membership gives workspace-wide access.
+- Show how to revoke client access and review recent access changes.
 - Record time to first live site, operator help required and the next requested feature.
 - Ask for explicit agreement before sharing names, screenshots or a case study.
