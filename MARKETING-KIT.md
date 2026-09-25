@@ -76,7 +76,8 @@ Record the project type, current hosting path, handoff owner, repeated pain poin
 - Arrange allowlisted access, then create the website and upload its ZIP without secrets.
 - Build if needed, publish, and connect the existing domain using the displayed DNS records.
 - Confirm HTTPS, key pages, and one successful content update.
-- Use a client label to organize the portfolio. Explain that labels do not grant access.
+- Use client and status filters plus alphabetical sorting to organize the portfolio. Explain that labels do not grant access.
+- Share the [first-site guide](https://launchstead.0xivanov.dev/getting-started.html) and show the reviewable Share summary control. No messages are sent automatically.
 - For client review, invite the approved account through Clients and confirm it sees only its shared website. Explain that Team membership gives workspace-wide access.
 - Show how to revoke client access and review recent access changes.
 - Record time to first live site, operator help required and the next requested feature.
